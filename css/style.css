@@ -104,7 +104,7 @@ a:hover {
 	opacity: 0.35;
 }
 .bnr-area h1 {
-	text-transform: uppercase;
+	text-transform: capitalize;
 	color: #fff;
 	position: relative;
 	z-index: 1;
